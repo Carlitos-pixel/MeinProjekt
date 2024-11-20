@@ -28,16 +28,16 @@
 
 1. Öffne dein Terminal (Linux/Mac) oder Git Bash (Windows).
 
-2. **Im gewünschten Ordner Repository klonen**
+2. **Im gewünschten Ordner Repository klonen.**
     git clone https://github.com/username/repository-name.git
 
 3. **In das Projektverzeichnis wechseln**
     cd repository-name
 
-4. **Erstelle ein neues lokales Git-Repository**
+4. **Erstelle ein neues lokales Git-Repository.**
     git init
 
-5. **Initieler Commit**
+5. **Initieler Commit.**
     git add file-name
     git commit -m "Initialer Commit"
 
@@ -50,17 +50,17 @@
     git commit -m "Neue Funktion hinzugefügt"
 
 ## Branches mergen
- 1. **Zum Main Branch wechseln** 
+ 1. **Zum Main Branch wechseln.** 
     git checkout Main
 
- 2. **Feature Branch nach Main mergen**
+ 2. **Feature Branch nach Main mergen.**
     git merge feature
 
  3. **Merge Konflikt lösen**
     Auf "Resolve in  Merge editor" clicken  
     in "Result" den Code ändern und auf "Complete Merge" clicken
 
- 4. **Führe den Merge-Vorgang ab, indem du die gelösten Konflikte commitest**
+ 4. **Führe den Merge-Vorgang ab, indem du die gelösten Konflikte commitest.**
     git commit -m "Merge von feature-Branch in Main-Branch" 
 
 ## Pushe dein lokales Git-Repository "MeinProjekt" an dein GitHub-Konto.
