@@ -70,10 +70,9 @@
     in "Result" den Code ändern und auf "Complete Merge" clicken
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/MergeKonfliktL%C3%B6sung.jpg?raw=true)
 
- 6. **Führe den Merge-Vorgang ab, indem du die gelösten Konflikte commitest.**
+ 6. ##Führe den Merge-Vorgang ab, indem du die gelösten Konflikte commitest.##
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/Konflikt-gel%C3%B6st.jpg?raw=true)
-    git remote add origin https://github.com/username/MeinProjekt.git
-    git push -u origin main
+  
     git commit -m "Merge von feature-Branch in Main-Branch"
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/Fertig.jpg?raw=true)
     
