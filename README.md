@@ -1,6 +1,5 @@
 # MeinProjekt
 
-# MeinProjekt
 
 ## Einrichten des GitHub-Repositorys 
 
@@ -65,4 +64,5 @@
     git commit -m "Merge von feature-Branch in Main-Branch" 
 
 ## Pushe dein lokales Git-Repository "MeinProjekt" an dein GitHub-Konto.
+    git remote add origin https://github.com/username/MeinProjekt.git
     git push -u origin main
