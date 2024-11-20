@@ -45,16 +45,20 @@
     `git init`
 
 6. **Initieler Commit.**
+   ```
     `git add . or file-name`
     `git commit -m "Initialer Commit"`
+   ```
    
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/FirstCommit.jpg?raw=true)
  
  ## Neuen Branch erstellen    
  1. **Lege einen neuen Branch namens "feature" an und wechsle zu diesem Branch**
-    `git checkout -b feature` 
+    ```
+    `git checkout -b feature`
+    ```
 
- 2. **Eine weitere Datei hinzufügen (z. B. "utils/database.py") und einen Commit auf dem "feature"-Branch erstellen**
+ 3. **Eine weitere Datei hinzufügen (z. B. "utils/database.py") und einen Commit auf dem "feature"-Branch erstellen**
     `git add utils/database.py`
     `git commit -m "Neue Funktion hinzugefügt"`
     
