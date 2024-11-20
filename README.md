@@ -5,6 +5,7 @@
 
 1. Melde dich bei GitHub an.
 2. Klicke oben rechts auf + > New repository.
+    ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/createNewRepository.jpg?raw=true)
 3. Gib den Namen "MeinProjekt" ein.
 4. Wähle Public oder Private aus.
 5. Aktiviere ggf. die Option Add a README file.
