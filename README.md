@@ -5,12 +5,16 @@
 
 1. Melde dich bei GitHub an.
 2. Klicke oben rechts auf + > New repository.
-   ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/createNewRepository.jpg?raw=true)
 
-3. Gib den Namen "MeinProjekt" ein.  
-4. Wähle Public oder Private aus.
-5. Aktiviere ggf. die Option Add a README file (optional).
-6. Klicke auf Create repository.
+    ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/createNewRepository.jpg?raw=true)
+
+4. Gib den Namen "MeinProjekt" ein.  
+5. Wähle Public oder Private aus.
+6. Aktiviere ggf. die Option Add a README file (optional).
+7. Klicke auf Create repository.
+
+   ![image-alt](![image](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/neuesRepository.jpg?raw=true)
+
 
 
 ## Erstellen eines SSH-Schlüssels
@@ -30,10 +34,16 @@
 3. Danach gehe dann zu GitHub und führe die folgenden Schritte aus:
    * Settings > SSH and GPG keys.
    * Click auf "New SSH key".
-   * Füge den Schlüssel ein und speichern.
+
+    ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/genetatedKeyImGitHub.jpg?raw=true)
+
+   * Als Titel können Sie einen beliebigen Text für den SSH-Schlüssel setzen
+   * Im Feld »Key« muss den kopierten Schlüssel eingefügt werden
+   * Auf "Add SSH clicken"
+
+   ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/addNewKey.jpg?raw=true)  
      
-   ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/genetatedKeyImGitHub.jpg?raw=true)
-     
+
 
 ## Projekt lokal einrichten
 
@@ -63,6 +73,8 @@
    ```
    
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/FirstCommit.jpg?raw=true)
+
+
  
  ## Neuen Branch erstellen    
  1. **Lege einen neuen Branch namens "feature" an und wechsle zu diesem Branch**
@@ -77,6 +89,8 @@
     ```
     
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/Commit%20im%20Branch%20Feature.jpg?raw=true)
+
+
 
 ## Branches mergen
  1. **Zum Main Branch wechseln.**
@@ -113,6 +127,8 @@
     ```
  
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/Fertig.jpg?raw=true)  
+
+
     
 ## Pushe dein lokales Git-Repository "MeinProjekt" an dein GitHub-Konto.
   1. Überprüfe, ob bereits ein Remote-Repository hinzugefügt wurde:  
