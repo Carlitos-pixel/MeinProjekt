@@ -13,7 +13,7 @@
 6. Aktiviere ggf. die Option Add a README file (optional).
 7. Klicke auf Create repository.
 
-   ![image-alt](![image](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/neuesRepository.jpg?raw=true)
+   ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/neuesRepository.jpg?raw=true)
 
 
 
@@ -73,8 +73,6 @@
    ```
    
     ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/FirstCommit.jpg?raw=true)
-
-
  
  ## Neuen Branch erstellen    
  1. **Lege einen neuen Branch namens "feature" an und wechsle zu diesem Branch**
@@ -138,7 +136,7 @@
      ```    
      
   2. Falls noch kein Remote-Repository hinzugefügt wurde, füge es mit dem Namen "origin" hinzu (üblicherweise wird "origin" als Standardname verwendet, es kann aber auch ein anderer
-     Name gewählt werden): $ git remote add origin <URL_des_Remote_Repositorys>
+     Name gewählt werden):
      
      ```
      `git remote add origin https://github.com/username/MeinProjekt.git`
