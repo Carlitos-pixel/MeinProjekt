@@ -72,7 +72,7 @@
    `git commit -m "Initialer Commit"`
    ```
    
-    ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/screenshots/FirstCommit.jpg?raw=true)
+    ![image-alt](https://github.com/Carlitos-pixel/MeinProjekt/blob/main/FirstCommit.jpg?raw=true)
  
  ## Neuen Branch erstellen    
  1. **Lege einen neuen Branch namens "feature" an und wechsle zu diesem Branch**
